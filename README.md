@@ -1,8 +1,9 @@
-<b>This is starting kit for application base on Angular 1.5+ component router+webpack + ES5</b>
+<h1>This is starting kit for application base on Angular 1.5+  ui-router +webpack + ES5</h1>
+<h3>For now angular 1 component router is deprecated and here we use ui-router. We are wainite for release ui-router 1 with full component support</h3>
 <br>
 Hello guys,
 <br>
-This is project based on new angular component router and webpack.
+This is project based on new angular ui-router and webpack.
 Also it's written in ES5 and will be good for those people who whant to learn angular and do not
 have strong knowledge in ES6.
 
